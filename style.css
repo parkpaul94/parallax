@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+#p1 {
+    height: 100vh;
+    width: 100%;
+    background-image: url('assets/live.jpg');
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+#p2 {
+    height: 100vh;
+    width: 100%;
+    background-image: url('assets/love.jpg');
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+#p3 {
+    height: 100vh;
+    width: 100%;
+    background-image: url('assets/laugh.jpg');
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+#p4 {
+    height: 100vh;
+    width: 100%;
+    background-image: url('assets/explore.jpg');
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+#p5 {
+    height: 100vh;
+    width: 100%;
+    background-image: url('assets/enjoy.jpg');
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+#p6 {
+    height: 100vh;
+    width: 100%;
+    background-image: url('assets/unite.jpg');
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 100px;
+    color: white;
+    margin: 0px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
